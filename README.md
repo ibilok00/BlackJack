@@ -72,11 +72,11 @@ The game panel will display the cards for both the player and the dealer, as wel
 
 ## Screenshots
 *Game Start screen:*
-![Game Start](screenshots/game_start.png)
+![Game Start](src/screenshots/game_start.png)
 
 
 *End of the game screen:*
-![Game Over](screenshots/game_over.png)
+![Game Over](src/screenshots/game_over.png)
 
 
 ## Contributing
